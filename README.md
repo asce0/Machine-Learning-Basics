@@ -8,17 +8,17 @@ Introduction to machine learning:
 
 ### Supervised Learning:
 * regression
-- Linear Regression
-- Polynomial Regression
+  - Linear Regression
+  - Polynomial Regression
 * classification
-- Logistic Regression
-- Desision Tree
-- KNN (K-Nearest-Neighbors)
+  - Logistic Regression
+  - Desision Tree
+  - KNN (K-Nearest-Neighbors)
 
 ### Unsupervised Learning:
 * Clustering
-- K-Means
-- Mean Shift
+  - K-Means
+  - Mean Shift
 
 you will need to install anaconda Distrebution or jupyter notebook 
 
